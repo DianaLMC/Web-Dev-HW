@@ -8,4 +8,4 @@
 I have searched the web to get help for dummies, but it just makes me more confused.  One of the websites I used is www.w3schools.com/html. A lot of great tutorials.</p>
 <p>I have not found the proper element to create a tag for my ordered and unordered lists. Just one more issue!</p>
 ![Screenshot of my
-directory](/images/Screenshot-1.jpg) 
+directory](/images/screenshot-1.jpg) 
