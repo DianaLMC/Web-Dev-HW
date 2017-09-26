@@ -9,7 +9,7 @@ I learned the difference between `<p>` and` #`.
 
 ---
 
-I have searched the web to get help for dummies, but it just makes me more confused.  One of the websites I used is [www.w3schools.com/html](www.w3schools.com/html) A lot of great tutorials.
+I have searched the web to get help for dummies, but it just makes me more confused.  One of the websites I used is [www.w3schools.com/html](https://www.w3schools.com/html) A lot of great tutorials.
 
 Below are some of my problem areas
 
