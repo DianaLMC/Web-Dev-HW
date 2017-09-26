@@ -21,4 +21,4 @@ Below are some of my problem areas
 - Thank goodness for Justine!
 
 Here is my screenshot
-![Screenshot of my directory](./images/Screenshot.jpg)
+![Screenshot of my directory](./Images/Screenshot.jpg)
