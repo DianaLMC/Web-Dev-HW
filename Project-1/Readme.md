@@ -1,21 +1,24 @@
-<h1>Diana Creekmore</h1>
-<h2>My readme.md</h2>
-<p>                                                                                     
+# Diana Creekmore
+## My Readme.md
+
 
   </p>
-<p>I have been having so much trouble with <b>Atom</b>, that it is very frustrating. I think I have it all figured out, then <i>blam</i>, I'm all confused again.</p>
-<hr />
-I have searched the web to get help for dummies, but it just makes me more confused.  One of the websites I used is (www.w3schools.com/html.) A lot of great tutorials.</p>
-<p>Below are some of my problem areas</p>
-<ol>
-  <li>Github Desktop</li>
-  <li>Not being able to commit</li>
-  <li>Being confused!</li>
-  <li>Atom not downloading</li>
-<ul>
-  <li>Wish this was a face-to-face class</li>  
-  <li>Thank goodness for Justine!</li>
-  <li>Here is to ironing out all the wrinkles</li>
-<p>Here is my screenshot</p>
-![Screenshot of my
-directory](./images/screenshot-1.jpg)
+I have been having so much trouble with <b>Atom</b>, that it is very frustrating. I think I have it all figured out, then *blam*, I'm all confused again.
+
+I learned the difference between `<p>` and` #`.
+
+---
+
+I have searched the web to get help for dummies, but it just makes me more confused.  One of the websites I used is [www.w3schools.com/html](www.w3schools.com/html) A lot of great tutorials.
+
+Below are some of my problem areas
+
+1. Github Desktop
+2. Not being able to commit
+
+
+- Wish this was a face-to-face class
+- Thank goodness for Justine!
+
+Here is my screenshot
+![Screenshot of my directory](./images/Screenshot.jpg)
