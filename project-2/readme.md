@@ -13,3 +13,8 @@
  do my next Readme in markdown!  I have changed the color of my index to orange
  to fit the pumpkin cookie recipe.  I also added a quote.  Now I will finish
  the rest of the assignment.</p>
+<p>I finally got my forms page done to my satisfaction, hope it is right. I
+ wasn't able to work on this assignment for awhile, so had to visit with Justine
+ to get a refresher.  Thank you. I will proceed with the next obstacle!  (Well
+ I hope it isn't.)  Forms are actually pretty easy once you get into the swing
+ of things.
