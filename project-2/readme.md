@@ -17,4 +17,4 @@
  wasn't able to work on this assignment for awhile, so had to visit with Justine
  to get a refresher.  Thank you. I will proceed with the next obstacle!  (Well
  I hope it isn't.)  Forms are actually pretty easy once you get into the swing
- of things.
+ of things.</p>
